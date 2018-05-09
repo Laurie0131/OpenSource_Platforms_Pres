@@ -51,7 +51,7 @@ Note:
 ---?image=/assets/images/slides/Slide3.JPG
 <!-- .slide: data-transition="none" -->		  
 @title[Web Tianocore.org]
-<p align="left"><span style="font-size:1.0em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='http://www.tianocore.org'>Tianocore.org</a></font></span></p>
+<p align="right"><span style="font-size:1.0em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='http://www.tianocore.org'>Tianocore.org</a></font></span></p>
 
 <br>
 <br>
@@ -64,7 +64,7 @@ Note:
 <br>
 <br>
 <br>
-<span style="font-size:0.8em" >Platforms on tianocore.org<br>
+<span style="font-size:0.6em" >Platforms on tianocore.org<br>
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Nt32Pkg'>Nt32</a>, 
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF</a>, 
 <a href='https://github.com/tianocore/edk2/tree/master/ArmVirtPkg'>ArmVirt</a>, 
@@ -82,7 +82,7 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Web Tianocore.org 02]
-<p align="left"><span style="font-size:1.0em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='http://www.tianocore.org'>Tianocore.org</a></font></span></p>
+<p align="right"><span style="font-size:1.0em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='http://www.tianocore.org'>Tianocore.org</a></font></span></p>
 
 <br>
 <br>
@@ -95,7 +95,7 @@ Note:
 <br>
 <br>
 <br>
-<span style="font-size:0.8em" >Platforms on tianocore.org<br>
+<span style="font-size:0.6em" >Platforms on tianocore.org<br>
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Nt32Pkg'>Nt32</a>, 
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF</a>, 
 <a href='https://github.com/tianocore/edk2/tree/master/ArmVirtPkg'>ArmVirt</a>, 
@@ -112,7 +112,8 @@ Note:
 ---?image=/assets/images/slides/Slide6.JPG
 <!-- .slide: data-transition="none" -->		  
 @title[github tianocore]
-<p align="left"><span style="font-size:.50em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<br>
+<p align="left"><span style="font-size:.60em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
@@ -121,7 +122,8 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 02]
-<p align="left"><span style="font-size:.50em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<br>
+<p align="left"><span style="font-size:.60em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
@@ -130,7 +132,8 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 03]
-<p align="left"><span style="font-size:.50em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<br>
+<p align="left"><span style="font-size:.60em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
@@ -139,7 +142,8 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 04]
-<p align="left"><span style="font-size:.50em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<br>
+<p align="left"><span style="font-size:.60em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
@@ -147,9 +151,10 @@ Note:
 ---?image=/assets/images/slides/Slide11.JPG
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore]
-<p align="left"><span style="font-size:.90em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
 <br>
-<p align="left"><span style="font-size:.50em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></font></span></p>
+<p align="left"><span style="font-size:1.0em" > &nbsp;&nbsp;<font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
+
+<p align="left"><span style="font-size:.70em" > &nbsp;&nbsp;&nbsp;<a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
 <p align="left"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
@@ -168,9 +173,10 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 02]
-<p align="left"><span style="font-size:.90em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
 <br>
-<p align="left"><span style="font-size:.50em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></font></span></p>
+<p align="left"><span style="font-size:1.0em" > &nbsp;&nbsp;<font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
+
+<p align="left"><span style="font-size:.70em" > &nbsp;&nbsp;&nbsp;<a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
 <p align="left"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
@@ -189,9 +195,10 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 03]
-<p align="left"><span style="font-size:.90em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
 <br>
-<p align="left"><span style="font-size:.50em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></font></span></p>
+<p align="left"><span style="font-size:1.0em" > &nbsp;&nbsp;<font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
+
+<p align="left"><span style="font-size:.70em" > &nbsp;&nbsp;&nbsp;<a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
 <p align="left"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
@@ -212,10 +219,10 @@ Note:
 <br>
 <div class="right">
     <ul>
-        <li>Nt32Pkg files </li><br>
-        <li>Nt32Pkg.dsc</li>
-        <li>Nt32Pkg.dec</li>
-        <li>Nt32Pkg.fdf</li>
+        <p> &nbsp;&nbsp;Nt32Pkg files </p><br>
+        <p> &nbsp;&nbsp;Nt32Pkg.dsc</p>
+        <p> &nbsp;&nbsp;Nt32Pkg.dec</p>
+        <p> &nbsp;&nbsp;Nt32Pkg.fdf</p>
     </ul>
 </div>
 
@@ -232,15 +239,15 @@ Disadvantage - Limited (or no) access to actual hardware
 
 ---?image=/assets/images/slides/Slide19.JPG
 @title[Open Virtual Machine Firmware  ]
-#### <p align="left"><span class="gold" >&nbsp;&nbsp;&nbsp;Open Virtual Machine Firmware (OVMF) </span></p>
-
-- <span style="font-size:.50em" >Uses EDK II to support firmware</span>
-- <span style="font-size:.50em" >OvmfPkg </span>
-- <span style="font-size:.50em" >Supports UEFI:  Helps develop/debug<Br> drivers & applications </span>
-- <span style="font-size:.50em" >QEMU VM; emulates IA32 (x86)/X64<br> (x86-64) based system  </span>
-- <span style="font-size:.50em" >Exit condition == UEFI Shell </span>
-- <span style="font-size:.50em" >Tool Chain/OS Support </span>
-- <span style="font-size:.50em" >Information <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF wiki </a>,  Tianocore.org </span>
+#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;Open Virtual Machine Firmware (OVMF) </span></p>
+<br><br>
+- <span style="font-size:.70em" >Uses EDK II to support firmware</span>
+- <span style="font-size:.70em" >OvmfPkg </span>
+- <span style="font-size:.70em" >Supports UEFI:  Helps develop/debug<Br> drivers & applications </span>
+- <span style="font-size:.70em" >QEMU VM; emulates IA32 (x86)/X64<br> (x86-64) based system  </span>
+- <span style="font-size:.70em" >Exit condition == UEFI Shell </span>
+- <span style="font-size:.70em" >Tool Chain/OS Support </span>
+- <span style="font-size:.70em" >Information <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF wiki </a>,  Tianocore.org </span>
 
 
 Note:
@@ -260,14 +267,15 @@ Note:
 
 ---?image=/assets/images/slides/Slide21.JPG
 @title[Intel® Quark]
+<br>
 #### <p align="left"><span class="gold" >&nbsp;&nbsp;&nbsp;Intel® Quark SoC  X1000 Platform<br> &nbsp;&nbsp;&nbsp;Project EDK II</span></p>
 <br>
 
-- <span style="font-size:.50em" >Uses EDK II to support firmware</span>
+- <span style="font-size:.70em" >Uses EDK II to support firmware</span>
 
-- <span style="font-size:.50em" >QuarkPlatformPkg </span>
-	- <span style="font-size:.50em" >Intel® Galileo Gen2</span>
-- <span style="font-size:.50em" >How to Build: <br><a href='https://github.com/tianocore/edk2/blob/master/QuarkPlatformPkg/Readme.md'>Quark Readme.md</a></span>
+- <span style="font-size:.70em" >QuarkPlatformPkg </span>
+	- <span style="font-size:.70em" >Intel® Galileo Gen2</span>
+- <span style="font-size:.70em" >How to Build: <br><a href='https://github.com/tianocore/edk2/blob/master/QuarkPlatformPkg/Readme.md'>Quark Readme.md</a></span>
 
 Note:
 
@@ -275,16 +283,17 @@ Note:
 
 ---?image=/assets/images/slides/Slide23.JPG
 @title[EDK II EADK]
-#### <p align="left"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK</span></p>
 <br>
-<span style="font-size:.75em" >EDK II Application Development Kit <br>
+#### <p align="left"><span class="gold" >&nbsp;&nbsp;EDK II EADK</span></p>
+<br>
+<span style="font-size:.80em" >EDK II Application Development Kit <br>
 includes the Standard “C” Libraries in <br>
 UEFI Shell Applications 
 </span>
 
-- <span style="font-size:.50em" >Link: <br><a href='https://github.com/tianocore/tianocore.github.io/wiki/EDKII-EADK'>wiki EADK</a></span>
-- <span style="font-size:.50em" >Github: <br><a href='https://github.com/tianocore/edk2/tree/master/AppPkg'> edk2/AppPkg</a></span>
-- <span style="font-size:.50em" >Github: <br><a href='https://github.com/tianocore/edk2/tree/master/StdLib'> edk2/StdLib</a></span>
+- <span style="font-size:.70em" >Link: <br><a href='https://github.com/tianocore/tianocore.github.io/wiki/EDKII-EADK'>wiki EADK</a></span>
+- <span style="font-size:.70em" >Github: <br><a href='https://github.com/tianocore/edk2/tree/master/AppPkg'> edk2/AppPkg</a></span>
+- <span style="font-size:.70em" >Github: <br><a href='https://github.com/tianocore/edk2/tree/master/StdLib'> edk2/StdLib</a></span>
 
 Note:
 
@@ -292,7 +301,7 @@ Note:
 ---?image=/assets/images/slides/Slide25.JPG
 @title[EDK II EADK Components]
 <!-- .slide: data-transition="none" -->
-#### <p align="left"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
+#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
 
 
 Note:
@@ -302,7 +311,7 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[EDK II EADK Components 02]
-#### <p align="left"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
+#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
 
 Note:
 
@@ -311,7 +320,7 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[EDK II EADK Components 03]
-#### <p align="left"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
+#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
 
 Note:
 
@@ -319,45 +328,42 @@ Note:
 ---?image=/assets/images/slides/Slide29.JPG
 
 @title[EDK II EADK ANSI C]
-#### <p align="left"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK – Standard ANSI C Library</span></p>
+#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK – Standard ANSI C Library</span></p>
 
 Note:
 
 ---?image=/assets/images/slides/Slide31.JPG
 @title[Platforms Tianocore.org]
-#### <p align="left"><span class="gold" >&nbsp;&nbsp;&nbsp;Platforms Tianocore.org</span></p>
 <br>
-<span style="font-size:.75em" >Platforms on branches - <a href='https://github.com/tianocore/edk2-platforms'>edk2-platforms</a> 
+#### <p align="left"><span class="gold" >Platforms Tianocore.org</span></p>
+<br>
+<span style="font-size:.8em" >Platforms on branches - <br><a href='https://github.com/tianocore/edk2-platforms'>edk2-platforms</a> 
 </span>
 
-- <span style="font-size:.50em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'>devel-MinnowBoard3</a><br>
-- Leaf Hill(Broxton) </span>
-- <span style="font-size:.50em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'> devel-MinnowBoardMax-UDK2017</a></span><br>
-- BayTrail-I  </span>
-- <span style="font-size:.50em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'> pentium-celeron-n-udk2015</a></span><br>
-- Cherry Hill(Braswell) </span>
+- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'>devel-MinnowBoard3</a><br> - Leaf Hill(Broxton) </span>
+- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'> devel-MinnowBoardMax-UDK2017</a></span><br> - BayTrail-I  </span>
+- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'> pentium-celeron-n-udk2015</a></span><br> - Cherry Hill(Braswell) </span>
 <br>
-<span style="font-size:.50em" > See the Readme.md files</span>
+<span style="font-size:.60em" > See the Readme.md files</span>
 
 
 Note:
 
 ---?image=/assets/images/slides/Slide33.JPG
 @title[Staging Tianocore.org]
-#### <p align="left"><span class="gold" >&nbsp;&nbsp;&nbsp;Staging Tianocore.org</span></p>
 <br>
-<span style="font-size:.55em" >Implementations not yet Ready for <br> EDK II Main
- - <a href='https://github.com/tianocore/edk2-staging'>edk2-staging</a> 
-</span>
+#### <p align="left"><span class="gold" >Staging Tianocore.org</span></p>
+<br>
+<span style="font-size:.75em" >Implementations not yet Ready for <br> EDK II Main <br> - <a href='https://github.com/tianocore/edk2-staging'>edk2-staging</a> </span>
 
-<span style="font-size:.50em" >Projects on branches </span>
-- <span style="font-size:.350em" >AArch64StandaloneMN (ARM)</span>
-- <span style="font-size:.350em" >Customized-Secure-Boot</span>
-- <span style="font-size:.350em" >HTTPS-TLS</span>
-- <span style="font-size:.350em" >RICS-V</span>
+<span style="font-size:.75em" >Projects on branches </span>
+- <span style="font-size:.550em" >AArch64StandaloneMN (ARM)</span>
+- <span style="font-size:.550em" >Customized-Secure-Boot</span>
+- <span style="font-size:.550em" >HTTPS-TLS</span>
+- <span style="font-size:.550em" >RICS-V</span>
 
 <br>
-<span style="font-size:.50em" > See the Readme.md files</span>
+<span style="font-size:.60em" > See the Readme.md files</span>
 
 
 Note:
