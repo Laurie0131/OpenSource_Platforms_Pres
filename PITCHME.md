@@ -198,9 +198,9 @@ Note:
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 03]
 <br>
-<p align="left"><span style="font-size:1.0em" > &nbsp;&nbsp;<font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
+<p align="left"><span style="font-size:1.0em" > <font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
 
-<p align="left"><span style="font-size:.70em" > &nbsp;&nbsp;&nbsp;<a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
+<p align="left"><span style="font-size:.70em" > &nbsp;<a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
 <p align="left"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
@@ -270,7 +270,7 @@ Note:
 ---?image=/assets/images/slides/Slide21.JPG
 @title[Intel® Quark]
 
-#### <p align="center"><span class="gold" >&nbsp;&nbsp;Intel® Quark SoC  X1000 Platform<br> &nbsp;&nbspProject EDK II&nbsp;&nbsp&nbsp;&nbsp</span></p>
+#### <p align="center"><span class="gold" >&nbsp;&nbsp;Intel® Quark SoC  X1000 Platform<br> &nbsp;&nbsp;Project EDK II&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
 <br>
 
 - <span style="font-size:.70em" >Uses EDK II to support firmware</span>
