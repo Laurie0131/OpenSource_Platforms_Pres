@@ -263,7 +263,7 @@ Note:
 Nt32 Emulation works on top of  Windows* environment
 Disadvantage - Limited (or no) access to actual hardware
 
----?image=/assets/images/slides2/Slide20.JPG
+---?image=/assets/images/slides2/Slide20_1.JPG
 @title[Open Virtual Machine Firmware  ]
 #### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;Open Virtual Machine Firmware (OVMF) </span></p>
 <br>
@@ -290,6 +290,11 @@ Note:
 - Microsoft Visual Studio*, WINDDK*, Intel ‘C’ Compiler (ICC), GCC Linux and GCC Windows (under CYGWIN*)
 - OVMF also requires an ASL compiler to be installed on the system. Intel ASL is available from http://www.acpica.org. 
 - More Information available at TianoCore.org
+
+---?image=/assets/images/slides2/Slide20_2.JPG
+@title[Open Virtual Machine Firmware  ]
+#### <p align="right"><span class="gold" >OVMF BIOS w/ QEMU </span></p>
+<p align="right"><span style="font-size:.70em" >Boots to UEFI Shell</span></p>
 
 ---?image=/assets/images/slides2/Slide22.JPG
 @title[Intel® Quark]
