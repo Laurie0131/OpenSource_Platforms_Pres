@@ -65,7 +65,7 @@ Note:
 <br>
 <br>
 <br>
-<span style="font-size:0.6em" >Platforms on tianocore.org<br>
+<span style="font-size:0.5em" >Platforms on tianocore.org :
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Nt32Pkg'>Nt32</a>, 
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF</a>, 
 <a href='https://github.com/tianocore/edk2/tree/master/ArmVirtPkg'>ArmVirt</a>, 
@@ -97,7 +97,7 @@ Note:
 <br>
 <br>
 <br>
-<span style="font-size:0.6em" >Platforms on tianocore.org<br>
+<span style="font-size:0.5em" >Platforms on tianocore.org :
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Nt32Pkg'>Nt32</a>, 
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF</a>, 
 <a href='https://github.com/tianocore/edk2/tree/master/ArmVirtPkg'>ArmVirt</a>, 
@@ -115,7 +115,7 @@ Note:
 <!-- .slide: data-transition="none" -->		  
 @title[github tianocore]
 <br>
-<p align="center"><span style="font-size:.60em" ><font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<p align="left"><span style="font-size:.60em" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
@@ -125,7 +125,7 @@ Note:
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 02]
 <br>
-<p align="center"><span style="font-size:.60em" ><font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<p align="left"><span style="font-size:.60em" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
@@ -135,7 +135,7 @@ Note:
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 03]
 <br>
-<p align="center"><span style="font-size:.60em" ><font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<p align="left"><span style="font-size:.60em" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
@@ -145,7 +145,7 @@ Note:
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 04]
 <br>
-<p align="center"><span style="font-size:.60em" ><font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<p align="left"><span style="font-size:.60em" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
