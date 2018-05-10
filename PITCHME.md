@@ -257,8 +257,7 @@ Note:
 
 ---?image=/assets/images/slides2/Slide18.JPG
 @title[Running Nt32 Emulation ]
-#### <p align="right"><span class="gold" >Running NT32 Emulation </span></p>
-<p align="right">@fa[windows gp-bullet-cyan]<span style="font-size:.90em" >Windows OS</span></p>
+<p align="right"><span class="gold" >Running NT32 Emulation </span>@fa[windows gp-bullet-cyan]<span style="font-size:.90em" >Windows OS</span></p>
 Note:
 Nt32 Emulation works on top of  Windows* environment
 Disadvantage - Limited (or no) access to actual hardware
