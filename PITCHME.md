@@ -48,7 +48,7 @@ Note:
  @fa[certificate gp-bullet-yellow]<span style="font-size:0.9em">&nbsp;&nbsp;Recognize the various Open Source UEFI Platforms </span><br><br>
 
 
----?image=/assets/images/slides/Slide3.JPG
+---?image=/assets/images/slides2/Slide3.JPG
 <!-- .slide: data-transition="none" -->		  
 @title[Web Tianocore.org]
 <p align="right"><span style="font-size:1.0em" > &nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='http://www.tianocore.org'>Tianocore.org</a></font></span></p>
@@ -79,7 +79,7 @@ Note:
 
 Note:
 
-+++?image=/assets/images/slides/Slide4.JPG
++++?image=/assets/images/slides2/Slide4.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Web Tianocore.org 02]
@@ -111,46 +111,65 @@ Note:
 
 Note:
 
----?image=/assets/images/slides/Slide6.JPG
+---?image=/assets/images/slides2/Slide6.JPG
 <!-- .slide: data-transition="none" -->		  
 @title[github tianocore]
 <br>
-<p align="left"><span style="font-size:.60em" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<p align="left"><span style="font-size:.60em" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
 
-+++?image=/assets/images/slides/Slide7.JPG
++++?image=/assets/images/slides2/Slide7.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 02]
 <br>
-<p align="left"><span style="font-size:.60em" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<p align="left"><span style="font-size:.60em" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
 
-+++?image=/assets/images/slides/Slide8.JPG
++++?image=/assets/images/slides2/Slide8.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 03]
 <br>
-<p align="left"><span style="font-size:.60em" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<p align="left"><span style="font-size:.60em" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
 
-+++?image=/assets/images/slides/Slide9.JPG
++++?image=/assets/images/slides2/Slide9.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 04]
 <br>
-<p align="left"><span style="font-size:.60em" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+<p align="left"><span style="font-size:.60em" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
+
+Note:
+
++++?image=/assets/images/slides2/Slide10.JPG
+<!-- .slide: data-background-transition="none" -->
+<!-- .slide: data-transition="none" -->
+@title[github tianocore 04]
+<br>
+<p align="left"><span style="font-size:.60em" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
 
 
----?image=/assets/images/slides/Slide11.JPG
+---?image=/assets/images/slides2/Slide12.JPG
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore]
 <br>
@@ -171,7 +190,7 @@ See Readme.md files
 
 Note:
 
-+++?image=/assets/images/slides/Slide12.JPG
++++?image=/assets/images/slides2/Slide13.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 02]
@@ -193,7 +212,7 @@ See Readme.md files
 
 Note:
 
-+++?image=/assets/images/slides/Slide13.JPG
++++?image=/assets/images/slide2/Slide14.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 03]
@@ -215,7 +234,7 @@ See Readme.md files
 
 Note:
 
----?image=/assets/images/slides/Slide15.JPG
+---?image=/assets/images/slides2/Slide16.JPG
 @title[NT32 Emulation Dir ]
 #### <p align="right"><span class="gold" >NT32 Emulation Directory Structure </span></p>
 <br>
@@ -231,7 +250,7 @@ Note:
 Note:
 
 
----?image=/assets/images/slides/Slide17.JPG
+---?image=/assets/images/slides2/Slide18.JPG
 @title[Running Nt32 Emulation ]
 #### <p align="right"><span class="gold" >Running NT32 Emulation </span></p>
 
@@ -239,7 +258,7 @@ Note:
 Nt32 Emulation works on top of  Windows* environment
 Disadvantage - Limited (or no) access to actual hardware
 
----?image=/assets/images/slides/Slide19.JPG
+---?image=/assets/images/slides2/Slide20.JPG
 @title[Open Virtual Machine Firmware  ]
 #### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;Open Virtual Machine Firmware (OVMF) </span></p>
 <br>
@@ -267,7 +286,7 @@ Note:
 - OVMF also requires an ASL compiler to be installed on the system. Intel ASL is available from http://www.acpica.org. 
 - More Information available at TianoCore.org
 
----?image=/assets/images/slides/Slide21.JPG
+---?image=/assets/images/slides2/Slide22.JPG
 @title[Intel® Quark]
 
 #### <p align="center"><span class="gold" >&nbsp;&nbsp;Intel® Quark SoC  X1000 Platform<br> &nbsp;&nbsp;Project EDK II&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
@@ -283,7 +302,7 @@ Note:
 
 
 
----?image=/assets/images/slides/Slide23.JPG
+---?image=/assets/images/slides2/Slide24.JPG
 @title[EDK II EADK]
 <br>
 #### <p align="left"><span class="gold" >&nbsp;&nbsp;EDK II EADK</span></p>
@@ -300,7 +319,7 @@ UEFI Shell Applications
 Note:
 
 
----?image=/assets/images/slides/Slide25.JPG
+---?image=/assets/images/slides2/Slide26.JPG
 @title[EDK II EADK Components]
 <!-- .slide: data-transition="none" -->
 #### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
@@ -309,7 +328,7 @@ Note:
 Note:
 
 
-+++?image=/assets/images/slides/Slide26.JPG
++++?image=/assets/images/slides2/Slide27.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[EDK II EADK Components 02]
@@ -318,7 +337,7 @@ Note:
 Note:
 
 
-+++?image=/assets/images/slides/Slide27.JPG
++++?image=/assets/images/slides2/Slide28.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[EDK II EADK Components 03]
@@ -327,14 +346,14 @@ Note:
 Note:
 
 
----?image=/assets/images/slides/Slide29.JPG
+---?image=/assets/images/slides2/Slide30.JPG
 
 @title[EDK II EADK ANSI C]
 #### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK – Standard ANSI C Library</span></p>
 
 Note:
 
----?image=/assets/images/slides/Slide31.JPG
+---?image=/assets/images/slides2/Slide32.JPG
 @title[Platforms Tianocore.org]
 <br>
 #### <p align="left"><span class="gold" >Platforms Tianocore.org</span></p>
@@ -351,7 +370,7 @@ Note:
 
 Note:
 
----?image=/assets/images/slides/Slide33.JPG
+---?image=/assets/images/slides2/Slide34.JPG
 @title[Staging Tianocore.org]
 <br>
 #### <p align="left"><span class="gold" >Staging Tianocore.org</span></p>
