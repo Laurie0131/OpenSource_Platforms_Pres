@@ -130,7 +130,7 @@ Note:
 <br>
 <p align="left"><span style="font-size:.60em" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
@@ -143,7 +143,7 @@ Note:
 <br>
 <p align="left"><span style="font-size:.60em" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
@@ -156,7 +156,7 @@ Note:
 <br>
 <p align="left"><span style="font-size:.60em" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
@@ -168,7 +168,7 @@ Note:
 <br>
 <p align="left"><span style="font-size:.60em" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
@@ -178,7 +178,7 @@ Note:
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore]
 <br>
-<p align="left"><span style="font-size:1.0em" > <font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
+<p align="left">@fa[github gp-bullet-gold]<span style="font-size:1.0em" > <font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
 
 <p align="left"><span style="font-size:.70em" > <a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
@@ -200,7 +200,7 @@ Note:
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 02]
 <br>
-<p align="left"><span style="font-size:1.0em" > <font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
+<p align="left">@fa[github gp-bullet-gold]<span style="font-size:1.0em" > <font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
 
 <p align="left"><span style="font-size:.70em" > <a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
@@ -222,7 +222,7 @@ Note:
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 03]
 <br>
-<p align="left"><span style="font-size:1.0em" > <font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
+<p align="left">@fa[github gp-bullet-gold]<span style="font-size:1.0em" > <font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
 
 <p align="left"><span style="font-size:.70em" > <a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
@@ -380,15 +380,15 @@ Note:
 @title[Staging Tianocore.org]
 <br>
 #### <p align="left"><span class="gold" >Staging Tianocore.org</span></p>
-<br>
-<span style="font-size:.75em" >Implementations not yet Ready for <br> EDK II Main <br> - <a href='https://github.com/tianocore/edk2-staging'>edk2-staging</a> </span>
+
+<span style="font-size:.75em" >Implementations not yet Ready for <br> EDK II Main - <a href='https://github.com/tianocore/edk2-staging'>edk2-staging</a> </span>
 
 <span style="font-size:.75em" >Projects on branches </span>
 - <span style="font-size:.550em" >AArch64StandaloneMN (ARM)</span>
 - <span style="font-size:.550em" >Customized-Secure-Boot</span>
 - <span style="font-size:.550em" >HTTPS-TLS</span>
 - <span style="font-size:.550em" >RICS-V</span>
-
+- <span style="font-size:.550em" >etc. . .</span>
 <br>
 <span style="font-size:.60em" > See the Readme.md files</span>
 
