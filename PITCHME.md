@@ -246,9 +246,9 @@ Note:
 <div class="right">
     <ul>
         <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nt32Pkg files </p><br>
-        <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nt32Pkg.dsc</p>
-        <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nt32Pkg.dec</p>
-        <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nt32Pkg.fdf</p>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;Nt32Pkg.dsc</p>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;Nt32Pkg.dec</p>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;Nt32Pkg.fdf</p>
     </ul>
 </div>
 
@@ -258,7 +258,7 @@ Note:
 ---?image=/assets/images/slides2/Slide18.JPG
 @title[Running Nt32 Emulation ]
 #### <p align="right"><span class="gold" >Running NT32 Emulation </span></p>
-
+<p align="left">@fa[github gp-bullet-cyan]<span style="font-size:1.0em" > <font color="#00CCFF">Windows</font>Operating System</span></p>
 Note:
 Nt32 Emulation works on top of  Windows* environment
 Disadvantage - Limited (or no) access to actual hardware
@@ -271,7 +271,7 @@ Disadvantage - Limited (or no) access to actual hardware
 - <span style="font-size:.70em" >OvmfPkg </span>
 - <span style="font-size:.70em" >Supports UEFI:  Helps develop/<br>debug drivers & applications </span>
 - <span style="font-size:.70em" >QEMU VM; emulates IA32 (x86)/<br>X64 (x86-64) based system  </span>
-- <span style="font-size:.70em" >Exit condition == UEFI Shell </span>
+- <span style="font-size:.70em" >Exit condition &rarr; UEFI Shell </span>
 - <span style="font-size:.70em" >Tool Chain/OS Support </span>
 - <span style="font-size:.70em" >Information <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF wiki </a>,<br>  Tianocore.org </span>
 
@@ -290,7 +290,7 @@ Note:
 - Microsoft Visual Studio*, WINDDK*, Intel ‘C’ Compiler (ICC), GCC Linux and GCC Windows (under CYGWIN*)
 - OVMF also requires an ASL compiler to be installed on the system. Intel ASL is available from http://www.acpica.org. 
 - More Information available at TianoCore.org
-
+ 
 ---?image=/assets/images/slides2/Slide20_4.JPG
 @title[Open Virtual Machine Firmware  ]
 #### <p align="right"><span class="gold" >OVMF BIOS w/ QEMU </span></p>
