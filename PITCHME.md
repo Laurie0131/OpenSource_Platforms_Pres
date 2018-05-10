@@ -291,7 +291,7 @@ Note:
 - OVMF also requires an ASL compiler to be installed on the system. Intel ASL is available from http://www.acpica.org. 
 - More Information available at TianoCore.org
 
----?image=/assets/images/slides2/Slide20_3.JPG
+---?image=/assets/images/slides2/Slide20_4.JPG
 @title[Open Virtual Machine Firmware  ]
 #### <p align="right"><span class="gold" >OVMF BIOS w/ QEMU </span></p>
 <p align="right"><span style="font-size:.70em" >Boots to UEFI Shell</span></p>
