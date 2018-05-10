@@ -200,7 +200,7 @@ Note:
 <br>
 <p align="left"><span style="font-size:1.0em" > <font color="#e49436">GitHub <a href='https://github.com/tianocore'>tianocore.org</a></font></span></p>
 
-<p align="left"><span style="font-size:.70em" > &nbsp;<a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
+<p align="left"><span style="font-size:.70em" > <a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
 <p align="left"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
