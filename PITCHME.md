@@ -117,6 +117,7 @@ Note:
 <br>
 <p align="left"><span style="font-size:.60em" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
@@ -129,6 +130,7 @@ Note:
 <br>
 <p align="left"><span style="font-size:.60em" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
@@ -141,6 +143,7 @@ Note:
 <br>
 <p align="left"><span style="font-size:.60em" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
@@ -153,6 +156,7 @@ Note:
 <br>
 <p align="left"><span style="font-size:.60em" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
@@ -164,6 +168,7 @@ Note:
 <br>
 <p align="left"><span style="font-size:.60em" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
 
 Note:
@@ -212,7 +217,7 @@ See Readme.md files
 
 Note:
 
-+++?image=/assets/images/slide2/Slide14.JPG
++++?image=/assets/images/slides2/Slide14.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 03]
@@ -305,11 +310,12 @@ Note:
 ---?image=/assets/images/slides2/Slide24.JPG
 @title[EDK II EADK]
 <br>
-#### <p align="left"><span class="gold" >&nbsp;&nbsp;EDK II EADK</span></p>
-<br>
-<span style="font-size:.80em" >EDK II Application Development Kit <br>
-includes the Standard “C” Libraries in <br>
-UEFI Shell Applications 
+#### <p align="left"><span class="gold" >EDK II EADK</span></p>
+
+<span style="font-size:.80em" >EDK II Application Development <br>
+Kit (EADK) includes the Standard <br>
+“C” Libraries in UEFI Shell <br>
+Applications 
 </span>
 
 - <span style="font-size:.70em" >Link: <br><a href='https://github.com/tianocore/tianocore.github.io/wiki/EDKII-EADK'>wiki EADK</a></span>
