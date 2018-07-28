@@ -7,7 +7,7 @@
 <br>
 <span style="font-size:0.75em" >&nbsp;&nbsp;&nbsp;<a href='http://www.tianocore.org'>tianocore.org</a></span>
 Note:
-  PITCHME.md for UEFI / EDK II Training EDK II Build Process
+  PITCHME.md for UEFI / EDK II Training EDK II Open Source Platforms
 
   Copyright (c) 2018, Intel Corporation. All rights reserved.<BR>
 
@@ -65,7 +65,7 @@ Note:
 <br>
 <br>
 <br>
-<span style="font-size:0.5em" >Platforms on tianocore.org :
+<p style="line-height:60%"><span style="font-size:0.5em" >Platforms on tianocore.org :
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Nt32Pkg'>Nt32</a>, 
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF</a>, 
 <a href='https://github.com/tianocore/edk2/tree/master/ArmVirtPkg'>ArmVirt</a>, 
@@ -74,7 +74,7 @@ Note:
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/MinnowBoardMax'>Max/Turbot</a>, 
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/MinnowBoard-3'>MinnowBoard 3</a> and
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Galileo'>Intel® Galileo</a>
-</span>	
+</span>	</p>
 
 
 Note:
@@ -97,7 +97,7 @@ Note:
 <br>
 <br>
 <br>
-<span style="font-size:0.5em" >Platforms on tianocore.org :
+<p style="line-height:60%"><span style="font-size:0.5em" >Platforms on tianocore.org :
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Nt32Pkg'>Nt32</a>, 
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF</a>, 
 <a href='https://github.com/tianocore/edk2/tree/master/ArmVirtPkg'>ArmVirt</a>, 
@@ -106,7 +106,7 @@ Note:
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/MinnowBoardMax'>Max/Turbot</a>, 
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/MinnowBoard-3'>MinnowBoard 3</a> and
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Galileo'>Intel® Galileo</a>
-</span>	
+</span>	</p>
 
 
 Note:
@@ -114,8 +114,8 @@ Note:
 ---?image=/assets/images/slides2/Slide6.JPG
 <!-- .slide: data-transition="none" -->		  
 @title[github tianocore]
-<br>
-<p align="left"><span style="font-size:.60em" >
+<p align="left"><span style="font-size:1.1em" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[github gp-bullet-white]&nbsp;GitHub</span>
+<span style="font-size:.60em" ><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
