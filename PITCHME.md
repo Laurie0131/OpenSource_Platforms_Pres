@@ -114,7 +114,9 @@ Note:
 ---?image=/assets/images/slides2/Slide6.JPG
 <!-- .slide: data-transition="none" -->		  
 @title[github tianocore]
-<p align="left"><span style="font-size:1.1em" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[github gp-bullet-white]&nbsp;GitHub</span>
+<p align="left"><span style="font-size:1.1em" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+@fa[github gp-bullet-white]&nbsp;<b>GitHub</b></span>
 <span style="font-size:.60em" ><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -127,8 +129,10 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 02]
-<br>
-<p align="left"><span style="font-size:.60em" >
+<p align="left"><span style="font-size:1.1em" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+@fa[github gp-bullet-white]&nbsp;<b>GitHub</b></span>
+<span style="font-size:.60em" ><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
@@ -140,8 +144,10 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 03]
-<br>
-<p align="left"><span style="font-size:.60em" >
+<p align="left"><span style="font-size:1.1em" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+@fa[github gp-bullet-white]&nbsp;<b>GitHub</b></span>
+<span style="font-size:.60em" ><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
@@ -153,8 +159,10 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 04]
-<br>
-<p align="left"><span style="font-size:.60em" >
+<p align="left"><span style="font-size:1.1em" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+@fa[github gp-bullet-white]&nbsp;<b>GitHub</b></span>
+<span style="font-size:.60em" ><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
@@ -165,8 +173,10 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[github tianocore 04]
-<br>
-<p align="left"><span style="font-size:.60em" >
+<p align="left"><span style="font-size:1.1em" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+@fa[github gp-bullet-white]&nbsp;<b>GitHub</b></span>
+<span style="font-size:.60em" ><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font color="#e49436"><a href='https://github.com/tianocore'>github/tianocore</a></font></span></p>
@@ -182,7 +192,7 @@ Note:
 
 <p align="left"><span style="font-size:.70em" > <a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
-<p align="left"><span style="font-size:.50em" > 
+<p style="line-height:50%"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
 	Coreboot…Pkg<br>
 	DuetPkg<br>
@@ -204,7 +214,7 @@ Note:
 
 <p align="left"><span style="font-size:.70em" > <a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
-<p align="left"><span style="font-size:.50em" > 
+<p style="line-height:50%"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
 	Coreboot…Pkg<br>
 	DuetPkg<br>
@@ -226,7 +236,7 @@ Note:
 
 <p align="left"><span style="font-size:.70em" > <a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
-<p align="left"><span style="font-size:.50em" > 
+<p style="line-height:50%"><span style="font-size:.50em" > 
     BeagleBoardPkg <br>
 	Coreboot…Pkg<br>
 	DuetPkg<br>
@@ -322,9 +332,9 @@ Kit (EADK) includes the Standard <br>
 Applications 
 </span>
 
-- <span style="font-size:.70em" >Link: <br><a href='https://github.com/tianocore/tianocore.github.io/wiki/EDKII-EADK'>wiki EADK</a></span>
-- <span style="font-size:.70em" >Github: <br><a href='https://github.com/tianocore/edk2/tree/master/AppPkg'> edk2/AppPkg</a></span>
-- <span style="font-size:.70em" >Github: <br><a href='https://github.com/tianocore/edk2/tree/master/StdLib'> edk2/StdLib</a></span>
+- <span style="font-size:.70em" >Link: <a href='https://github.com/tianocore/tianocore.github.io/wiki/EDKII-EADK'>wiki EADK</a></span>
+- <span style="font-size:.70em" >Github: <a href='https://github.com/tianocore/edk2/tree/master/AppPkg'> edk2/AppPkg</a></span>
+- <span style="font-size:.70em" >Github: <a href='https://github.com/tianocore/edk2/tree/master/StdLib'> edk2/StdLib</a></span>
 
 Note:
 
@@ -367,15 +377,15 @@ Note:
 @title[Platforms Tianocore.org]
 <br>
 #### <p align="left"><span class="gold" >Platforms Tianocore.org</span></p>
-<br>
+
 <span style="font-size:.8em" >Platforms on branches - <br><a href='https://github.com/tianocore/edk2-platforms'>edk2-platforms</a> 
 </span>
 
 - <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'>devel-MinnowBoard3</a><br> - Leaf Hill(Broxton) </span>
-- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'> devel-MinnowBoardMax-UDK2017</a></span><br> - BayTrail-I  </span>
-- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'> pentium-celeron-n-udk2015</a></span><br> - Cherry Hill(Braswell) </span>
+- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'> devel-MinnowBoardMax-UDK2017</a><br> - BayTrail-I  </span>
+- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'> pentium-celeron-n-udk2015</a><br> - Cherry Hill(Braswell) </span>
 <br>
-<span style="font-size:.60em" > See the Readme.md files</span>
+<p style="line-height:50%"><span style="font-size:.60em" > How to build <br>- See the Readme.md files</span></p>
 
 
 Note:
@@ -388,11 +398,13 @@ Note:
 <span style="font-size:.75em" >Implementations not yet Ready for <br> EDK II Main - <a href='https://github.com/tianocore/edk2-staging'>edk2-staging</a> </span>
 
 <span style="font-size:.75em" >Projects on branches </span>
-- <span style="font-size:.550em" >AArch64StandaloneMN (ARM)</span>
-- <span style="font-size:.550em" >Customized-Secure-Boot</span>
-- <span style="font-size:.550em" >HTTPS-TLS</span>
-- <span style="font-size:.550em" >RICS-V</span>
-- <span style="font-size:.550em" >etc. . .</span>
+<ul style="line-height:0.8;">
+  <li><span style="font-size:.550em" >AArch64StandaloneMN (ARM)</span></li>
+  <li><span style="font-size:.550em" >Customized-Secure-Boot</span></li>
+  <li><span style="font-size:.550em" >HTTPS-TLS</span></li>
+  <li><span style="font-size:.550em" >RICS-V</span></li>
+  <li><span style="font-size:.550em" >etc. . .</span></li>
+</ul>
 <br>
 <span style="font-size:.60em" > See the Readme.md files</span>
 
