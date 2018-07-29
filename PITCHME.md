@@ -65,7 +65,7 @@ Note:
 <br>
 <br>
 <br>
-<p style="line-height:60%"><span style="font-size:0.5em" >Platforms on tianocore.org :
+<p style="line-height:50%"><span style="font-size:0.5em" >Platforms on tianocore.org :
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Nt32Pkg'>Nt32</a>, 
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF</a>, 
 <a href='https://github.com/tianocore/edk2/tree/master/ArmVirtPkg'>ArmVirt</a>, 
@@ -97,7 +97,7 @@ Note:
 <br>
 <br>
 <br>
-<p style="line-height:60%"><span style="font-size:0.5em" >Platforms on tianocore.org :
+<p style="line-height:50%"><span style="font-size:0.5em" >Platforms on tianocore.org :
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Nt32Pkg'>Nt32</a>, 
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF</a>, 
 <a href='https://github.com/tianocore/edk2/tree/master/ArmVirtPkg'>ArmVirt</a>, 
