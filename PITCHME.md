@@ -1,6 +1,8 @@
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Title-UEFI Overview]
-<br><br><br><br><br>
+<br><br>
+<span style="font-size:0.75em" >This slide deck has moved to:  https://gitpitch.com/tianocore-training/OpenSource_Platforms_Pres/master#/</span>
+<br><br><br>
 ## <span class="gold"   >&nbsp;UEFI & EDK II Training</span>
 
 ####  &nbsp;&nbsp;Open Source UEFI Platforms
@@ -282,7 +284,7 @@ Disadvantage - Limited (or no) access to actual hardware
 - <span style="font-size:.70em" >QEMU VM; emulates IA32 (x86)/<br>X64 (x86-64) based system  </span>
 - <span style="font-size:.70em" >Exit condition &rarr; UEFI Shell </span>
 - <span style="font-size:.70em" >Tool Chain/OS Support </span>
-- <span style="font-size:.70em" >Information <a href='https://github.com/tianocore/tianocore.github.io/wiki/OvmfPkg'>OVMF wiki </a>,<br>  Tianocore.org </span>
+- <span style="font-size:.70em" >Information <a href='https://github.com/tianocore/tianocore.github.io/wiki/OVMF'>OVMF wiki </a>,<br>  Tianocore.org </span>
 
 
 Note:
@@ -338,6 +340,21 @@ Applications
 
 Note:
 
+---
+@title[EDK II EADK Components]
+#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
+<p style="line-height:80%"><span style="font-size:.90em" >EDK II Application Development Kit includes the Standard C Libraries in UEFI Shell Applications  </span></p>
+@fa[circle gp-bullet-green]<span style="font-size:1.0em" >Components</span>
+- <span style="font-size:.70em" >@color[#green]()</span>
+- <span style="font-size:.70em" >@color[#yellow]()</span>
+- <span style="font-size:.70em" >@color[#green]()</span>
+- <span style="font-size:.70em" >@color[#yellow]()</span>
+@fa[circle gp-bullet-gold]<span style="font-size:1.0em" >Packages</span> <span style="font-size:.50em" >@color[#orange](`/AppPkg`)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @color[#gray](`/StdLib`)</span>
+
+
+Note:
+
 
 ---?image=/assets/images/slides2/Slide26.JPG
 @title[EDK II EADK Components]
@@ -366,6 +383,44 @@ Note:
 Note:
 
 
+---
+
+@title[EDK II EADK ANSI C]
+#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK – Standard ANSI C Library</span></p>
+<span style="font-size:.90em" >FreBSD Port &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@color[#orange](ANSI/POSIX compliant)</span>
+
+<table id="recTable">
+	<tr>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">System I/O  </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">- `open(), read(), write(), close(), stat()`  </font></span></p></td>
+	</tr>
+	<tr>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">Standard I/O  </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">- `fopen(), printf(), gets(),`. . . </font></span></p></td>
+	</tr>
+	<tr>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">String/Char  </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">- `strcmp(), isascii(), atoi(),` . . .  </font></span></p></td>
+	</tr>
+	<tr>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">Memory  </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">- `malloc(), free(), realloc(),`. . . </font></span></p></td>
+	</tr>
+
+	<tr>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">Time/Date  </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">- `time(), asctime(), ctime(),` . . .  </font></span></p></td>
+	</tr>
+	<tr>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">Math </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">- `sqrt(), pow(), sin(), log(),` . . .  </font></span></p></td>
+	</tr>
+
+</table>
+
+Note:
+
+
 ---?image=/assets/images/slides2/Slide30.JPG
 
 @title[EDK II EADK ANSI C]
@@ -381,9 +436,9 @@ Note:
 <span style="font-size:.8em" >Platforms on branches - <br><a href='https://github.com/tianocore/edk2-platforms'>edk2-platforms</a> 
 </span>
 
-- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'>devel-MinnowBoard3</a><br> - Leaf Hill(Broxton) </span>
-- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'> devel-MinnowBoardMax-UDK2017</a><br> - BayTrail-I  </span>
-- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoard3'> pentium-celeron-n-udk2015</a><br> - Cherry Hill(Braswell) </span>
+- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-IntelAtomProcessorE3900'>devel-IntelAtomProcessorE3900</a><br> - Leaf Hill, Up Squared (Apollo Lake) </span>
+- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-MinnowBoardMax-UDK2017'> devel-MinnowBoardMax-UDK2017</a><br> - BayTrail-I  </span>
+- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/pentium-celeron-n-udk2015'> pentium-celeron-n-udk2015</a><br> - Cherry Hill(Braswell) </span>
 <br>
 <p style="line-height:50%"><span style="font-size:.60em" > How to build <br>- See the Readme.md files</span></p>
 
