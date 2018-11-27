@@ -345,13 +345,13 @@ Note:
 #### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
 <p style="line-height:80%"><span style="font-size:.90em" >EDK II Application Development Kit includes the Standard C Libraries in UEFI Shell Applications  </span></p>
 @fa[circle gp-bullet-green]<span style="font-size:1.0em" >&nbsp;&nbsp;&nbsp;&nbsp;Components</span>
-- <span style="font-size:.70em" >@color[green](Utilities &lpar;Python 2.7.2, & 2.7.10 etc.&rpar; )</span>
+- <span style="font-size:.70em" >@color[#87E2A9](Utilities &lpar;Python 2.7.2, & 2.7.10 etc.&rpar; )</span>
 - <span style="font-size:.70em" >@color[yellow](C Library)</span>
-- <span style="font-size:.70em" >@color[green](BSD Socket Library)</span>
+- <span style="font-size:.70em" >@color[#87E2A9](BSD Socket Library)</span>
 - <span style="font-size:.70em" >@color[yellow](Network Socket Library – Ipv4 / Ipv6)</span>
-<br>
+<br><br>
 @fa[circle gp-bullet-gold]<span style="font-size:1.0em" >&nbsp;&nbsp;&nbsp;&nbsp;Packages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="font-size:.650em" >@color[#FFC000](`/AppPkg`)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @color[gray](`/StdLib`)</span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @color[gray](`/StdLib`)</span>
 
 
 Note:
@@ -361,32 +361,32 @@ Note:
 
 @title[EDK II EADK ANSI C]
 #### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK – Standard ANSI C Library</span></p>
-<span style="font-size:.90em" >FreBSD Port &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@color[#orange](ANSI/POSIX compliant)</span>
+<span style="font-size:.90em" ><b>FreBSD Port </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@color[orange](<b>ANSI/POSIX compliant</b>)</span>
 
 <table id="recTable">
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">System I/O  </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white"><b>System I/O</b>  </font></span></p></td>
 		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">- `open(), read(), write(), close(), stat()`  </font></span></p></td>
 	</tr>
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">Standard I/O  </font></span></p></td>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">- `fopen(), printf(), gets(),`. . . </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange"><b>Standard I/O</b>  </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">- `fopen(), printf(), gets(), getchar(),`. . . </font></span></p></td>
 	</tr>
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">String/Char  </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white"><b>String/Char</b>  </font></span></p></td>
 		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">- `strcmp(), isascii(), atoi(),` . . .  </font></span></p></td>
 	</tr>
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">Memory  </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange"><b>Memory</b>  </font></span></p></td>
 		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">- `malloc(), free(), realloc(),`. . . </font></span></p></td>
 	</tr>
 
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">Time/Date  </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white"><b>Time/Date</b>  </font></span></p></td>
 		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">- `time(), asctime(), ctime(),` . . .  </font></span></p></td>
 	</tr>
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">Math </font></span></p></td>
+		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange"><b>Math</b> </font></span></p></td>
 		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">- `sqrt(), pow(), sin(), log(),` . . .  </font></span></p></td>
 	</tr>
 
