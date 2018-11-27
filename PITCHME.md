@@ -344,41 +344,15 @@ Note:
 @title[EDK II EADK Components]
 #### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
 <p style="line-height:80%"><span style="font-size:.90em" >EDK II Application Development Kit includes the Standard C Libraries in UEFI Shell Applications  </span></p>
-@fa[circle gp-bullet-green]<span style="font-size:1.0em" >Components</span>
-- <span style="font-size:.70em" >@color[#green]()</span>
-- <span style="font-size:.70em" >@color[#yellow]()</span>
-- <span style="font-size:.70em" >@color[#green]()</span>
-- <span style="font-size:.70em" >@color[#yellow]()</span>
-@fa[circle gp-bullet-gold]<span style="font-size:1.0em" >Packages</span> <span style="font-size:.50em" >@color[#orange](`/AppPkg`)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @color[#gray](`/StdLib`)</span>
+@fa[circle gp-bullet-green]<span style="font-size:1.0em" >&nbsp;&nbsp;&nbsp;&nbsp;Components</span>
+- <span style="font-size:.70em" >@color[green](Utilities &lpar;Python 2.7.2, & 2.7.10 etc.&rpar; )</span>
+- <span style="font-size:.70em" >@color[yellow](C Library)</span>
+- <span style="font-size:.70em" >@color[green](BSD Socket Library)</span>
+- <span style="font-size:.70em" >@color[yellow](Network Socket Library – Ipv4 / Ipv6)</span>
+<br>
+@fa[circle gp-bullet-gold]<span style="font-size:1.0em" >&nbsp;&nbsp;&nbsp;&nbsp;Packages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="font-size:.650em" >@color[#FFC000](`/AppPkg`)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @color[gray](`/StdLib`)</span>
 
-
-Note:
-
-
----?image=/assets/images/slides2/Slide26.JPG
-@title[EDK II EADK Components]
-<!-- .slide: data-transition="none" -->
-#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
-
-
-Note:
-
-
-+++?image=/assets/images/slides2/Slide27.JPG
-<!-- .slide: data-background-transition="none" -->
-<!-- .slide: data-transition="none" -->
-@title[EDK II EADK Components 02]
-#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
-
-Note:
-
-
-+++?image=/assets/images/slides2/Slide28.JPG
-<!-- .slide: data-background-transition="none" -->
-<!-- .slide: data-transition="none" -->
-@title[EDK II EADK Components 03]
-#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
 
 Note:
 
@@ -420,13 +394,6 @@ Note:
 
 Note:
 
-
----?image=/assets/images/slides2/Slide30.JPG
-
-@title[EDK II EADK ANSI C]
-#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK – Standard ANSI C Library</span></p>
-
-Note:
 
 ---?image=/assets/images/slides2/Slide32.JPG
 @title[Platforms Tianocore.org]
