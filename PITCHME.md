@@ -186,7 +186,7 @@ Note:
 Note:
 
 
----?image=/assets/images/slides2/Slide12.JPG
+---?image=/assets/images/slides2/Slide10_1.JPG
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore]
 <br>
