@@ -186,7 +186,7 @@ Note:
 Note:
 
 
----?image=/assets/images/slides2/Slide11_1.JPG
+---?image=/assets/images/slides2/Slide12.JPG
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore]
 <br>
@@ -206,7 +206,7 @@ See Readme.md files
 
 Note:
 
-+++?image=/assets/images/slides2/Slide12_1.JPG
++++?image=/assets/images/slides2/Slide11_1.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 02]
@@ -227,7 +227,7 @@ See Readme.md files
 
 Note:
 
-+++?image=/assets/images/slides2/Slide14.JPG
++++?image=/assets/images/slides2/Slide12_1.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[Platforms github tianocore 03]
@@ -248,7 +248,7 @@ See Readme.md files
 
 Note:
 
----?image=/assets/images/slides2/Slide16.JPG
+---?image=/assets/images/slides2/Slide13_1.JPG
 @title[NT32 Emulation Dir ]
 #### <p align="right"><span class="gold" >NT32 Emulation Directory Structure </span></p>
 <br>
