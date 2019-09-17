@@ -132,7 +132,7 @@ Note:
   <li class="fragment"><span style="font-size:0.7em;" >Main development -<br>    @color[yellow](edk2)</span></li>
   <li class="fragment"><span style="font-size:0.7em;" >Online Infor & Help (Wiki) -<br>   @color[yellow](tianocore.github.io)</span></li>
   <li class="fragment"><span style="font-size:0.7em;" >Other Platforms -<br>    @color[yellow](edk2-platforms )</span></li>
-  <li class="fragment"><span style="font-size:0.7em;" >"C" library for Apps -<br>    @color[yellow](edk2-libc)</span><br></li>
+  <li class="fragment"><span style="font-size:0.7em;" >"C" library for Apps -<br>    @color[yellow](edk2-libc)</span><br><br></li>
   <li class="fragment"><span style="font-size:0.7em;" >To Download use   "@color[#A8ff60](git clone)" then<br> "@color[#A8ff60](git checkout)" </span></li>
 </ul>
 @snapend
@@ -345,11 +345,11 @@ Note:
 <br>
 <br>
 <p style="line-height:65%" align="left" ><span style="font-size:0.7em;" >
-Repository of Intel FSP binaries posted by Intel<br>
+Repository of Intel FSP binaries posted by Intel<br><br>
 Includes documentation on how to integrate with various platforms<br>
-https://github.com/IntelFsp/FSP <br>
+https://github.com/IntelFsp/FSP <br><br>
 Wiki: https://github.com/IntelFsp/FSP/wiki <br>
-  &nbsp; - current specs
+  &nbsp; &nbsp;&nbsp;- current specs
 </span></p>
 @snapend
 
