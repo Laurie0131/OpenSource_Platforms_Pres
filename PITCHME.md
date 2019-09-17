@@ -126,12 +126,14 @@ Note:
 @snap[north-west span-60 ]
 <br>
 <br>
+<br>
+<br>
 <ul style="list-style-type:disc; line-height:0.7;">
-  <li class="fragment"><span style="font-size:0.7em;" >Main development -    @color[yellow](edk2)</span></li>
-  <li class="fragment"><span style="font-size:0.7em;" >Online Infor & Help (Wiki) -   @color[yellow](tianocore.github.io)</span></li>
-  <li class="fragment"><span style="font-size:0.7em;" >Other Platforms -    @color[yellow](edk2-platforms )</span></li>
-  <li class="fragment"><span style="font-size:0.7em;" >"C" library for Apps -    @color[yellow](edk2-libc)</span><br></li>
-  <li class="fragment"><span style="font-size:0.7em;" >To Download use   "@color[#A8ff60](git clone)" then "@color[#A8ff60](git checkout)" </span></li>
+  <li class="fragment"><span style="font-size:0.7em;" >Main development -<br>    @color[yellow](edk2)</span></li>
+  <li class="fragment"><span style="font-size:0.7em;" >Online Infor & Help (Wiki) -<br>   @color[yellow](tianocore.github.io)</span></li>
+  <li class="fragment"><span style="font-size:0.7em;" >Other Platforms -<br>    @color[yellow](edk2-platforms )</span></li>
+  <li class="fragment"><span style="font-size:0.7em;" >"C" library for Apps -<br>    @color[yellow](edk2-libc)</span><br></li>
+  <li class="fragment"><span style="font-size:0.7em;" >To Download use   "@color[#A8ff60](git clone)" then<br> "@color[#A8ff60](git checkout)" </span></li>
 </ul>
 @snapend
 
@@ -145,10 +147,11 @@ Note:
 
 <p align="left"><span style="font-size:.70em" > <a href='https://github.com/tianocore'>edk2</a> - Platforms on edk2 <B>- CORE</b></span></p>
 
-<p style="line-height:50%"><span style="font-size:.50em" > 
-    EmulatorPkg <br>
-	OvmfPkg<br>
-
+<p style="line-height:50%"><span style="font-size:.60em" > 
+    &nbsp;&nbsp;EmulatorPkg <br>
+	&nbsp;&nbsp;OvmfPkg<br>
+<br>
+<br>
 See Readme.md files
 </span></p>
 
@@ -162,7 +165,7 @@ Note:
 <span style="font-size:0.75em;" >  </span></p>
 <br>
 <div class="right">
-    <ul>
+    <ul style="list-style-type:none; line-height:0.8;">
         <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EmulatorPkg files </p><br>
         <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;EmulatorPkg.dsc</p>
         <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;EmulatorPkg.dec</p>
@@ -237,16 +240,16 @@ Note:
 ---
 @title[EDK II EADK Components]
 #### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;EDK II EADK Components</span></p>
-<p style="line-height:80%"><span style="font-size:.90em" >EDK II Application Development Kit includes the Standard C Libraries in UEFI Shell Applications  </span></p>
+<p style="line-height:80%"><span style="font-size:.85em" >EDK II Application Development Kit includes the Standard C Libraries in UEFI Shell Applications  </span></p>
 @fa[circle gp-bullet-green]<span style="font-size:1.0em" >&nbsp;&nbsp;&nbsp;&nbsp;Components</span>
 - <span style="font-size:.70em" >@color[#87E2A9](Utilities &lpar;Python 2.7.2, & 2.7.10 etc.&rpar; )</span>
 - <span style="font-size:.70em" >@color[yellow](C Library)</span>
 - <span style="font-size:.70em" >@color[#87E2A9](BSD Socket Library)</span>
 - <span style="font-size:.70em" >@color[yellow](Network Socket Library – Ipv4 / Ipv6)</span>
 <br><br>
-@fa[circle gp-bullet-gold]<span style="font-size:1.0em" >&nbsp;&nbsp;&nbsp;&nbsp;Packages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="font-size:.650em" >@color[#FFC000](`/AppPkg`)
+@fa[circle gp-bullet-gold]<span style="font-size:1.0em" >&nbsp;&nbsp;&nbsp;&nbsp;Packages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="font-size:.650em" >@color[#FFC000](<font face="Consolas">/AppPkg</font>)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @color[#FFFF99](`/StdLib`)</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @color[#FFFF99](<font face="Consolas">/StdLib</font>)</span>
 
 
 Note:
@@ -260,29 +263,29 @@ Note:
 
 <table id="recTable">
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white"><b>System I/O</b>  </font></span></p></td>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">- `open(), read(), write(), close(), stat()`  </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="white"><b>System I/O</b>  </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="white">- <font face="Consolas">open(), read(), write(), close(), stat()</font>  </font></span></p></td>
 	</tr>
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange"><b>Standard I/O</b>  </font></span></p></td>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">- `fopen(), printf(), gets(), getchar(),`. . . </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="orange"><b>Standard I/O</b>  </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="orange">- <font face="Consolas">fopen(), printf(), gets(), getchar(),</font>. . . </font></span></p></td>
 	</tr>
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white"><b>String/Char</b>  </font></span></p></td>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">- `strcmp(), isascii(), atoi(),` . . .  </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="white"><b>String/Char</b>  </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="white">- <font face="Consolas">strcmp(), isascii(), atoi(),</font> . . .  </font></span></p></td>
 	</tr>
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange"><b>Memory</b>  </font></span></p></td>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">- `malloc(), free(), realloc(),`. . . </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="orange"><b>Memory</b>  </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="orange">- <font face="Consolas">malloc(), free(), realloc(),</font>. . . </font></span></p></td>
 	</tr>
 
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white"><b>Time/Date</b>  </font></span></p></td>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="white">- `time(), asctime(), ctime(),` . . .  </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="white"><b>Time/Date</b>  </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="white">- <font face="Consolas">time(), asctime(), ctime(),</font> . . .  </font></span></p></td>
 	</tr>
 	<tr>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange"><b>Math</b> </font></span></p></td>
-		<td><p style="line-height:50%"><span style="font-size:0.65em" ><font color="orange">- `sqrt(), pow(), sin(), log(),` . . .  </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="orange"><b>Math</b> </font></span></p></td>
+		<td><p style="line-height:10%"><span style="font-size:0.65em" ><font color="orange">- <font face="Consolas">sqrt(), pow(), sin(), log(),</font> . . .  </font></span></p></td>
 	</tr>
 
 </table>
@@ -296,15 +299,15 @@ Note:
 
 <span style="font-size:.8em" >Platforms on branches - <br><a href='https://github.com/tianocore/edk2-platforms'>edk2-platforms</a> 
 </span>
-
-- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-IntelAtomProcessorE3900'>devel-IntelAtomProcessorE3900</a><br> - Leaf Hill, Up Squared (Apollo Lake) </span>
-- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/blob/master/Platform/Intel/Vlv2TbltDevicePkg/Readme.md'> MinnowBoardMax</a><br> - BayTrail-I  </span>
-- <span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/blob/master/Platform/Intel/Readme.md'> MinPlatformPkg</a> - (W/ FSP)<br>&nbsp;&nbsp;&nbsp; - 
+<ul style="list-style-type:disc; line-height:0.7;">
+ <li><span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/tree/devel-IntelAtomProcessorE3900'>devel-IntelAtomProcessorE3900</a><br> - Leaf Hill, Up Squared (Apollo Lake) </span> </li>
+ <li><span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/blob/master/Platform/Intel/Vlv2TbltDevicePkg/Readme.md'> MinnowBoardMax</a><br> - BayTrail-I  </span></li>
+ <li><span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/blob/master/Platform/Intel/Readme.md'> MinPlatformPkg</a> - (W/ FSP)<span style="font-size:.70em" ><br>&nbsp;&nbsp;&nbsp; - 
   KabylakeOpenBoardPkg <br>&nbsp;&nbsp;&nbsp; - 
   ClevoOpenBoardPkg<br>&nbsp;&nbsp;&nbsp; - 
   PuleyOpenBoardPkg<br>&nbsp;&nbsp;&nbsp; - 
-  WhiskeylakeOpenBoardPkg<br>&nbsp;&nbsp;&nbsp; - 
-</span>
+  WhiskeylakeOpenBoardPkg</span>
+</span></li>
 <br>
 <p style="line-height:50%"><span style="font-size:.60em" > How to build <br>- See the Readme.md files</span></p>
 
@@ -313,7 +316,7 @@ Note:
 
 ---?image=/assets/images/slides/Slide15.JPG
 @title[Slim Bootloader SBL]
-<p align="right"><span class="gold" ><br>@size[1.1em](<b>Slim BootLoader &rpar;SBL&lpar; Project &nbsp;&nbsp;&nbsp;</b>)</span> <span style="font-size:0.75em;" >  </span></p>
+<p align="right"><span class="gold" ><br>@size[1.1em](<b>Slim BootLoader &lpar;SBL&rpar; Project &nbsp;&nbsp;&nbsp;</b>)</span> <span style="font-size:0.75em;" >  </span></p>
 
 <span style="font-size:.8em" >Fast & Secure Open source boot solution for IoT Use Cases<br>
 @size[.8em](Github:  https://github.com/slimbootloader )
@@ -328,6 +331,7 @@ Note:
   <li><span style="font-size:0.6em;" >Coffee Lake Refresh  Lake CRB   </span></li>
   <li><span style="font-size:0.6em;" >UP Xtreme Board   </span></li>
 </ul>
+<br>
 <span style="font-size:0.6em;" >Documentation: <a href="https://slimbootloader.github.io/index.html"> Slim Bootloader Project</a>
 
 
@@ -335,16 +339,21 @@ Note:
 @title[Intel® FSP Repository]
 <p align="left"><span class="gold" ><br>@size[1.1em](<b>Intel® FSP Repository&nbsp;&nbsp;&nbsp;</b>)</span> <span style="font-size:0.75em;" >  </span></p>
 
+@snap[north-west span-60 ]
+<br>
+<br>
+<br>
+<br>
 <p style="line-height:65%" align="left" ><span style="font-size:0.7em;" >
 Repository of Intel FSP binaries posted by Intel<br>
 Includes documentation on how to integrate with various platforms<br>
 https://github.com/IntelFsp/FSP <br>
 Wiki: https://github.com/IntelFsp/FSP/wiki <br>
-  - current specs
+  &nbsp; - current specs
 </span></p>
+@snapend
 
-
----?image=/assets/images/slides2/Slide17.JPG
+---?image=/assets/images/slides/Slide17.JPG
 @title[Staging Tianocore.org]
 <br>
 #### <p align="left"><span class="gold" >Staging Tianocore.org</span></p>
