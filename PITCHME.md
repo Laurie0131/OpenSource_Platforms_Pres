@@ -427,11 +427,6 @@ Note:
 <BR><BR><BR>
 ![Logo Slide](/assets/images/TianocoreLogo.png =10x)
 
----  
-@title[Backup]
-<br><br><br><br><br>
-### <p align="center"<span class="gold"   >Backup </span></p>
-
 ---
 @title[Acknowledgements]
 <br>
@@ -466,6 +461,11 @@ Copyright (c) 2019, Intel Corporation. All rights reserved.
 **/
 
 ```
+
+---  
+@title[Backup]
+<br><br><br><br><br>
+### <p align="center"<span class="gold"   >Backup </span></p>
 
 
 ---?image=/assets/images/slides/Slide23.JPG
