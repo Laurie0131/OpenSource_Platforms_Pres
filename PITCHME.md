@@ -190,6 +190,8 @@ Disadvantage - Limited (or no) access to actual hardware
 @snap[north-west span-60 ]
 <br>
 <br>
+<br>
+<br>
 <ul style="list-style-type:disc; line-height:0.7;">
   <li><span style="font-size:.70em" >Uses EDK II to support firmware in the OvmfPkg platform package</span></li>
   <li><span style="font-size:.70em" >Supports UEFI:  Helps develop/ debug drivers & applications </span></li>
