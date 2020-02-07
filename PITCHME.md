@@ -192,7 +192,7 @@ Disadvantage - Limited (or no) access to actual hardware
 <br>
 <br>
 <br>
-<ul style="list-style-type:disc; line-height:0.7;">
+<ul style="list-style-type:disc; line-height:0.75;">
   <li><span style="font-size:.70em" >Uses EDK II to support firmware in the OvmfPkg platform package</span></li>
   <li><span style="font-size:.70em" >Supports UEFI:  Helps develop/ debug drivers & applications </span></li>
   <li><span style="font-size:.70em" >QEMU VM; emulates IA32 (x86)/ X64 (x86-64) based system  </span></li>
