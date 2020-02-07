@@ -339,7 +339,7 @@ Note:
 <span style="font-size:0.6em;" >Documentation: <a href="https://slimbootloader.github.io/index.html"> Slim Bootloader Project</a>
 
 
----?image=/assets/images/slides/Slide16.JPG
+---?image=/assets/images/slides/Slide16-1.JPG
 @title[Intel® FSP Repository]
 <p align="left"><span class="gold" ><br>@size[1.1em](<b>Intel® FSP Repository&nbsp;&nbsp;&nbsp;</b>)</span> <span style="font-size:0.75em;" >  </span></p>
 
