@@ -11,7 +11,7 @@
 Note:
   PITCHME.md for UEFI / EDK II Training EDK II Open Source Platforms
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -187,14 +187,18 @@ Disadvantage - Limited (or no) access to actual hardware
 @title[Open Virtual Machine Firmware  ]
 <p align="right"><span class="gold" >@size[1.1em](<b>&nbsp;&nbsp;&nbsp;Open Virtual Machine Firmware &lpar;OVMF&rpar;</b>) </span></p>
 <br>
-- <span style="font-size:.70em" >Uses EDK II to support firmware</span>
-- <span style="font-size:.70em" >OvmfPkg </span>
-- <span style="font-size:.70em" >Supports UEFI:  Helps develop/<br>debug drivers & applications </span>
-- <span style="font-size:.70em" >QEMU VM; emulates IA32 (x86)/<br>X64 (x86-64) based system  </span>
-- <span style="font-size:.70em" >Exit condition &rarr; UEFI Shell </span>
-- <span style="font-size:.70em" >Tool Chain/OS Support </span>
-- <span style="font-size:.70em" >Information <a href='https://github.com/tianocore/tianocore.github.io/wiki/OVMF'>OVMF wiki </a>,<br>  Tianocore.org </span>
-
+@snap[north-west span-60 ]
+<br>
+<br>
+<ul style="list-style-type:disc; line-height:0.7;">
+  <li><span style="font-size:.70em" >Uses EDK II to support firmware in the OvmfPkg platform package</span></li>
+  <li><span style="font-size:.70em" >Supports UEFI:  Helps develop/ debug drivers & applications </span></li>
+  <li><span style="font-size:.70em" >QEMU VM; emulates IA32 (x86)/ X64 (x86-64) based system  </span></li>
+  <li><span style="font-size:.70em" >Exit condition &rarr; UEFI Shell </span></li>
+  <li><span style="font-size:.70em" >Tool Chain/OS Support </span></li>
+  <li><span style="font-size:.70em" >Information <a href='https://github.com/tianocore/tianocore.github.io/wiki/OVMF'>OVMF wiki </a>,<br>  Tianocore.org </span></li>
+</ul>
+@snapend
 
 Note:
 - Support firmware for VM using EDK II
@@ -304,8 +308,6 @@ Note:
  <li><span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/blob/master/Platform/Intel/Vlv2TbltDevicePkg/Readme.md'> MinnowBoardMax</a><br> - BayTrail-I  </span></li>
  <li><span style="font-size:.70em" ><a href='https://github.com/tianocore/edk2-platforms/blob/master/Platform/Intel/Readme.md'> MinPlatformPkg</a> - (W/ FSP)<span style="font-size:.70em" ><br>&nbsp;&nbsp;&nbsp; - 
   KabylakeOpenBoardPkg <br>&nbsp;&nbsp;&nbsp; - 
-  ClevoOpenBoardPkg<br>&nbsp;&nbsp;&nbsp; - 
-  PuleyOpenBoardPkg<br>&nbsp;&nbsp;&nbsp; - 
   WhiskeylakeOpenBoardPkg</span>
 </span></li>
 <br>
@@ -345,7 +347,8 @@ Note:
 <br>
 <br>
 <p style="line-height:65%" align="left" ><span style="font-size:0.7em;" >
-Repository of Intel FSP binaries posted by Intel<br><br>
+Intel Developer Zone <a href="https://www.intel.com/content/www/us/en/intelligent-systems/intel-firmware-support-package/intel-fsp-overview.html">Overview</a><br><br>
+Repository of Intel FSP binaries posted by Intel<br>
 Includes documentation on how to integrate with various platforms<br>
 https://github.com/IntelFsp/FSP <br><br>
 Wiki: https://github.com/IntelFsp/FSP/wiki <br>
@@ -457,7 +460,7 @@ WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWIS
 ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY 
 OF SUCH DAMAGE.
 
-Copyright (c) 2019, Intel Corporation. All rights reserved.
+Copyright (c) 2020, Intel Corporation. All rights reserved.
 **/
 
 ```
